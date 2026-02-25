@@ -1,4 +1,4 @@
-﻿using Kontrolltoo;
+﻿using Kontrolltöö;
 using System;
 
 class StartPage
